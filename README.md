@@ -13,16 +13,26 @@ I used the following when I tested this script:
 * MacBook Pro running Sierra
 * GoPro Hero 4 running the latest firmware as of July 2017
 * Python 3.6.1 - MAKE SURE YOU UPDATE PYTHON
+* USB to Ethernet adapter if your MacBook does not come with it (mine didn't)
 
 ## Prerequisites ##
-WiFi connection to GoPro
+Needs at least 2 interfaces. My setup was a WiFi connection to GoPro,
 Ethernet Connection to Internet
 
 * Step 1:
 Download and uncompress the contents of this repository onto your desktop
 
 * Step 2:
-Open terminal on mac (CMD + Spacebar; then type terminal and press enter)
+Open terminal on mac (<kbd>⌘ + spacebar</kbd> then type "terminal" and press enter)
 
 * Step3:
-Go to folder containing scripts:
+Go to folder containing scripts: `cd ~/Desktop/gopro-youtube-livestream`
+
+* Step 4: Give execution rights to both scripts `chmod +x golive.sh ; chmod +x test.sh`
+
+* Step 5: Test streaming connection with `./test.sh`
+
+* Step 6: Start livestreaming with `./golive.sh XXXX-XXXX-XXXX-XXXX`
+
+** Note: "XXXX-XXXX-XXXX-XXXX" represents YOUR YouTube Stream name/key, also notice there is a space in between the "./golive.sh" and the "XXXX-XXXX-XXXX-XXXX" ** 
+
