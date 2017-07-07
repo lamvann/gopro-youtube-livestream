@@ -15,9 +15,9 @@ I used the following when I tested this script:
 * Python 3.6.1 - MAKE SURE YOU UPDATE PYTHON
 * USB to Ethernet adapter if your MacBook does not come with it (mine didn't)
 
-## Prerequisites ##
+## Setup ##
 Needs at least 2 interfaces. My setup was a WiFi connection to GoPro,
-Ethernet Connection to Internet
+Ethernet Connection to Internet. This tutorial assumes you are connected to both the go pro and the internet.
 
 * Step 1: Download and uncompress the contents of this repository onto your desktop
 
