@@ -33,3 +33,7 @@ Ethernet Connection to Internet. This tutorial assumes you are connected to both
 
 ### Note: "XXXX-XXXX-XXXX-XXXX" represents YOUR YouTube Stream name/key, also notice there is a space in between the "./golive.sh" and the "XXXX-XXXX-XXXX-XXXX" ###
 
+## Additional Resources ##
+Special thanks to whoever made the tutorial below
+`https://www.yatko.com/live-streaming/gopro-live-streaming`
+
