@@ -10,9 +10,9 @@ This represents a big pain you-know-where, so I put together a BASH script that 
 ## Requirements: ##
 I used the following when I tested this script:
 
-MacBook Pro running Sierra
-GoPro Hero 4 running the latest firmware as of July 2017
-Python 3.6.1 - MAKE SURE YOU UPDATE PYTHON
+* MacBook Pro running Sierra
+* GoPro Hero 4 running the latest firmware as of July 2017
+* Python 3.6.1 - MAKE SURE YOU UPDATE PYTHON
 
 ## Prerequisites ##
 WiFi connection to GoPro
